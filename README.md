@@ -104,3 +104,5 @@ Books are stored in the browser's `localStorage` under the key
 
 Add a license file if you plan to distribute or reuse this project.
 Until then, no specific open-source license is declared.
+Run Open index.html in a browser. Live link:https://reading-list-mu-rust.vercel.app/
+Author: Vaibhav Gupta
